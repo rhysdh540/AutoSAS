@@ -7,8 +7,8 @@
     <ProjectGuid>{4F74C1EB-332A-490D-8E84-636F628B185A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AutoRCS</RootNamespace>
-    <AssemblyName>AutoRCS</AssemblyName>
+    <RootNamespace>AutoSAS</RootNamespace>
+    <AssemblyName>AutoSAS</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -50,7 +50,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AutoRCS.cs" />
+    <Compile Include="AutoSAS.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

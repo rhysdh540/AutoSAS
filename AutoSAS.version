@@ -1,10 +1,10 @@
 {
-    "NAME":"AutoRCS",
+    "NAME":"AutoSAS",
     "URL":"https://raw.githubusercontent.com/todi/AutoRCS/master/AutoRCS.version",
-    "DOWNLOAD":"https://github.com/todi/AutoRCS/releases",
+    "DOWNLOAD":"https://github.com/rhysdh540/AutoSAS/releases",
     "GITHUB": {
-        "USERNAME": "todi",
-        "REPOSITORY": "AutoRCS"
+        "USERNAME": "rhysdh540",
+        "REPOSITORY": "AutoSAS"
     },
     "VERSION":
     {
@@ -17,7 +17,7 @@
     {
         "MAJOR":1,
         "MINOR":12,
-        "PATCH":3
+        "PATCH":5
     },
     "KSP_VERSION_MIN":
     {
@@ -29,6 +29,6 @@
     {
         "MAJOR":1,
         "MINOR":12,
-        "PATCH":3
+        "PATCH":5
     }
 }
